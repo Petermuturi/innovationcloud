@@ -13,9 +13,11 @@ ul li{
 }
 
 div.low{
+	background-position: center;
 	background-image: url("jumbotron_bg.jpg");
 	text-align: right;
-	color:white;
-	padding-top: 154px;
+	padding-right: 132px;
+	padding-top: 54px;
+	padding-bottom: 54px;
 
 }
