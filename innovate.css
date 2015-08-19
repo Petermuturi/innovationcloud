@@ -11,3 +11,11 @@ div.sumn{
 ul li{
 	display: inline;
 }
+
+div.low{
+	background-image: url("jumbotron_bg.jpg");
+	text-align: right;
+	color:white;
+	padding-top: 154px;
+
+}
