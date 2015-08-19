@@ -2,10 +2,11 @@ div.sumn{
 	background-image: url("bg.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center;
 	text-align: center;
 	color:white;
 	padding-top: 93px;
-	font-family: Arial;
+	font-family: Helevetica;
 }
 ul li{
 	display: inline;
