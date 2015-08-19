@@ -7,3 +7,6 @@ div.sumn{
 	padding-top: 53px;
 	font-family: Arial;
 }
+ul li{
+	display: inline;
+}
